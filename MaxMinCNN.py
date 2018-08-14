@@ -195,7 +195,7 @@ for i in range(10):
 """
 Results:-
 Well GPU required definitely as training time significantly 
-increased but good good results after just 2 epochs of about 1.5
-loss as compared to 1.8 originally
+increased but good good results after just 2 epochs of about 1.09
+loss as compared to 1.23 originally
 DONE :)
 """
